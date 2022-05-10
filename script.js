@@ -40,7 +40,7 @@ function generateComputerChoice(){
     computerChoiceDisplay.innerHTML = computerChoice;
 
 }
-
+ 
 
 function result(){
     let compVal
