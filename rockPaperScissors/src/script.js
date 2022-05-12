@@ -1,7 +1,7 @@
 let computerChoiceDisplay = document.getElementById('computer-choice')
 let userChoiceDisplay = document.getElementById('user-choice')
 let displayResult = document.getElementById('result') 
-
+ 
 //New values
 let compTot = document.getElementById('computer-wins')
 let usrTot = document.getElementById('user-wins')
