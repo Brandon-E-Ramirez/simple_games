@@ -1,7 +1,7 @@
 let computerChoiceDisplay = document.getElementById('computer-choice')
 let userChoiceDisplay = document.getElementById('user-choice')
 let displayResult = document.getElementById('result') 
- 
+  
 //New values
 let compTot = document.getElementById('computer-wins')
 let usrTot = document.getElementById('user-wins')
@@ -9,8 +9,8 @@ let tie = document.getElementById('userComp-tie')
 
 //querySelector() is another method you can use to get the first element type
 let possibleChoices = document.querySelectorAll('button')
-
-let userChoice
+ 
+let userChoice 
 let computerChoice 
 let usrResult
 

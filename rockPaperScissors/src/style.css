@@ -3,7 +3,7 @@ body{
     background-image: url("https://images.pexels.com/photos/8926558/pexels-photo-8926558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-repeat: no-repeat;
     background-size: cover;
-} 
+}  
  
 button{ 
     border: 5px solid black;
@@ -12,14 +12,14 @@ button{
     cursor: pointer;
     background-color: yellowgreen;
     text-decoration: none;
-}
+} 
 
 #rock{
     background-color: deepskyblue;
 } 
 #paper{
     background-color: gold;
-}
+} 
 #scissors{
     background-color: lightcoral;
 }
